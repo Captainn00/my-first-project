@@ -1,2 +1,2 @@
 # my-first-project
-This is my first GitHub repository for learning.
+Hello GitHub! This is my first commit.
